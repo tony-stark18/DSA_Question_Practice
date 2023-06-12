@@ -10,7 +10,7 @@ class Solution {
         }
         if (prefix.isEmpty()) {
            return "-1";  // If prefix becomes empty, it should return -1
-           }
+         }
         return prefix;
     }
 }
