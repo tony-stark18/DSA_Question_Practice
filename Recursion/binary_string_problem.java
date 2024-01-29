@@ -15,6 +15,6 @@ public class binary_string_problem {
     }
     public static void main(String[] args) {
         StringBuilder sb=new StringBuilder("");
-        printBinary(4, 0, sb);
+        printBinary(3, 0, sb);
     }
 }
